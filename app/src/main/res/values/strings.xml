@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Teksto Skaičiuoklė</string>
+
+    <string name="app_title">Teksto Analizė</string>
+    <string name="hint_enter_text">Įveskite tekstą čia...</string>
+    <string name="btn_calculate">Skaičiuoti</string>
+    <string name="result_placeholder">Rezultatas atsiras čia</string>
+
+    <string name="error_empty_input">Įveskite tekstą!</string>
+    <string name="result_text">Rezultatas: </string>
+
+    <string-array name="calculation_options">
+        <item>Sakiniai </item>
+        <item>Žodžiai </item>
+        <item>Rašybos ženklai </item>
+        <item>Skaičiai </item>
+    </string-array>
+</resources>
